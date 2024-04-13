@@ -2,7 +2,7 @@
 
 ## A Few Things About Me
 
-I'm an undergraduate at the Dpt. of Digital Systems, University of Piraeus and I'm interested in Cybersecurity. Beyond academics, I enjoy working on various tech projects, from building custom PCs to repairing and tweaking the software of old gaming consoles."
+I'm an undergraduate at the Dpt. of Digital Systems, University of Piraeus and I'm interested in learning about Cybersecurity. Beyond academics, I enjoy working on various tech projects, from building custom PCs to repairing and tweaking the software of old gaming consoles."
 
 ## Projects
 

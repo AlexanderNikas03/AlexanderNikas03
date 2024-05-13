@@ -10,7 +10,7 @@ Feel free to explore my repositories to see the projects I've created for my ass
 
 ## Get in Touch
 
-Let's connect and collaborate! Reach out to me via [email](mailto:a_lexnikas@hotmail.gr) or connect on [LinkedIn](https://www.linkedin.com/in/alexandros-nikas-94877929a/)
+Let's connect and collaborate! Reach out to me via [email](mailto:a_lexnikas@hotmail.gr) or connect on [LinkedIn](https://www.linkedin.com/in/AlexandrosNikas1/)
 
 
 Looking forward to connecting with fellow tech enthusiasts! 🚀
